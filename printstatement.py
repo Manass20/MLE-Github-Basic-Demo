@@ -1,1 +1,3 @@
-print("Hello Alma-X 22")
+
+print("welcome to day 3")
+print("get ready for Day 4")
